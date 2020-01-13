@@ -1,0 +1,3 @@
+*.go linguist-detectable=true
+src/*.go linguist-detectable=true
+.github/* linguist-detectable=false
